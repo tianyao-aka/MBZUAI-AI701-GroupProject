@@ -23,4 +23,4 @@ For heterophily datasets: Texas and Wisconsin are in the WebKB benchmark dataset
 Each model will run 10 trials and output the mean and max accuracy for the dataset.
 
 
-The processed data of Texas and Wisconsin dataset and the model training log files are [here](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/zeyuan_yin_mbzuai_ac_ae/Er4xO66AB09Dqt2iMh31a4IBI_ha3PLjOMMbHIBqfnQWSg?e=4zLmLt). (People in MBZUAI with the link can view)
+The processed data of Texas and Wisconsin dataset and the model training log files are uploaded into the [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/zeyuan_yin_mbzuai_ac_ae/Er4xO66AB09Dqt2iMh31a4IBI_ha3PLjOMMbHIBqfnQWSg?e=4zLmLt). (People in MBZUAI with the link can view)
